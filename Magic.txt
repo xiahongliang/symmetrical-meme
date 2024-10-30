@@ -1,5 +1,2 @@
-# 需要魔法上网的 域名
 
-
-# Apple 服务相关
 DOMAIN-SUFFIX,mail.me.com
