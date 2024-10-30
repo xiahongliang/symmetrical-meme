@@ -2,4 +2,4 @@
 
 
 # Apple 服务相关
-DOMAIN-SUFFIX，mail.me.com
+DOMAIN-SUFFIX,mail.me.com
